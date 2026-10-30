@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Símbolo da Medicina — bastão de Asclépio</title>
+  <rect width="64" height="64" rx="14" fill="#692c40"/>
+  <g fill="none" stroke="#ebd4a7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 10v44" stroke-width="3.5"/>
+    <path d="M37 16c13 0 13 13-3 16S18 43 31 46s11 7 5 9" stroke-width="3"/>
+  </g>
+  <path d="M36 12c-5 0-8 3-8 5s4 3 8 2l6-3-6-4Z" fill="#ebd4a7"/>
+  <circle cx="32" cy="16" r="1" fill="#692c40"/>
+</svg>
